@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Node modules & build outputs
+node_modules/
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.local
+
+# Pytest / logs
+.pytest_cache/
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
